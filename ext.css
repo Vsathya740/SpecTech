@@ -1,0 +1,70 @@
+<style>
+ 
+div{
+  width: 100%;
+  height: 500px; 
+}
+ body {
+  background-image: url('newsback.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+
+
+.navi{
+ text-align: left;
+ font-size: 20px;
+}
+.header {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.head{
+  margin: 5px 0px 0px 15px;
+  text-align: center;
+}
+.aligncenter {
+    text-align: center;
+}
+.font{
+  font-size: 21px;
+}
+.backg{
+  background-color: teal;
+}
+.divMar{
+  margin: 10px 10px 10px 10px ;
+}
+.imgm{
+  max-width: 90%;
+  max-height: 90%;
+}
+.but{
+  float: right;
+  position: relative;
+  padding: 5px;
+  font-size: 10px;
+  margin: 5px 0px 0px 0px;
+  margin-top: 13px;
+}
+
+.video {
+  max-height: 90%;
+  max-width: 90%;
+}
+.submit{
+  margin: 0px 50px 15px 15px;
+}
+
+.foot{
+  float: left;
+}
+</style>
